@@ -8,7 +8,7 @@ Installation
 Install with pip.
 
 ```sh
-pip install git+https://codeberg.org/kore/ia3
+pip install git+https://github.com/oelin/ia3
 ```
 
 Citations
